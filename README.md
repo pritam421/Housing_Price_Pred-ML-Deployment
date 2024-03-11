@@ -9,4 +9,4 @@
 Create a new environment
 
 This project includes prediction of US-House prices using Regression model, 
-This model will be deployed in Heroku Clouds 
+This model will be deployed in Heroku Clouds  
